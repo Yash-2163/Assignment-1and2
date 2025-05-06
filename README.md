@@ -68,6 +68,4 @@ This file shows how I did the Git and GitHub assignment.
 -   **GitHub Link:** [https://github.com/Yash-2163](https://github.com/Yash-2163)
 
 -   **Proof of Merge:**
-    -   ![Pull Request Merged](https://github.com/Yash-2163/Assignment-1and2/blob/main/ss1%262/Screenshot%202025-05-07%20003549.png)
-    *(This is where a picture of the successful merge on GitHub should be.)*
- 
+    -   ![Pull Request Merged](https://github.com/Yash-2163/Assignment-1and2/blob/main/ss1%262/Screenshot%202025-05-07%20003549.png) 
